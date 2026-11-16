@@ -1,5 +1,8 @@
 
+
 streamlit
 ultralytics==8.4.215
+opencv-python-headless
 pillow
 numpy<2
+
